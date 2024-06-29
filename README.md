@@ -1,7 +1,7 @@
 # ilkuygulama
 
 
-anasayfayı ekledik.
-blog için ekleme bekliyoruz.
-
+ilkuygulama
+anasayfayı ekledik. 
+blog eklendi 
 
