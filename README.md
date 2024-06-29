@@ -1,6 +1,5 @@
 # ilkuygulama
 
--githup kursu için oluşturulan ilk dosya.
-
-değişiklik amaçlı yapılamn öğrenme
+anasayfayı ekledik.
+blog için ekleme bekliyoruz.
 
