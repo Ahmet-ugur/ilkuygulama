@@ -1,5 +1,5 @@
-hakkında eklendi
 anasayfayı ekledik. 
 bloger bblog denemsi eklendi
-ekstra yazı eklendi hakkında en üste taşındı 
+hakkında eklendi
+ekstra yazı eklendi hakkında aşağı alındı
 deneme 1 1 2 
