@@ -1,7 +1,6 @@
 # ilkuygulama
 
 
-ilkuygulama
 anasayfayı ekledik. 
-blog eklendi 
-
+blog eklendi
+hakkında eklendi
