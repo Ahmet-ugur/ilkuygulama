@@ -1,0 +1,30 @@
+body{
+    background-color: black;
+    display: flex;
+    align-self: center;
+}
+.ugur{
+    display: flex;
+    align-self: center;
+}
+.ahmet{
+   
+    background-color: rgb(243, 247, 24);
+    width: 700px;
+    height: 600px;
+}
+.neye{
+    color: seagreen;
+    font-size: 50px;
+    font-weight: 20px;
+    text-align: center;
+}
+
+.bas{
+    background-color:black;
+    color: red;
+  height: 150px;
+  width: 500px;
+  border-radius: 50%;
+  margin-left: 100px;
+}
